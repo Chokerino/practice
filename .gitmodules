@@ -1,0 +1,3 @@
+[submodule "EAT"]
+	path = EAT
+	url = https://github.com/Rostlab/EAT.git
