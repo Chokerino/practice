@@ -1,3 +1,6 @@
 [submodule "EAT"]
 	path = EAT
 	url = https://github.com/Chokerino/EAT
+[submodule "ETNA"]
+	path = ETNA
+	url = https://github.com/Chokerino/ETNA/tree/master
