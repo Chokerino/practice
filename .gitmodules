@@ -4,3 +4,6 @@
 [submodule "ETNA"]
 	path = ETNA
 	url = https://github.com/Chokerino/ETNA
+[submodule "Diffuse2Direct"]
+	path = Diffuse2Direct
+	url = https://github.com/Chokerino/Diffuse2Direct
