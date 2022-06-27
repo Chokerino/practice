@@ -7,3 +7,6 @@
 [submodule "Diffuse2Direct"]
 	path = Diffuse2Direct
 	url = https://github.com/Chokerino/Diffuse2Direct
+[submodule "MolR"]
+	path = MolR
+	url = https://github.com/Chokerino/MolR
